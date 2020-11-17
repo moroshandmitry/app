@@ -1,0 +1,15 @@
+.Article {
+    color: DarkBlue;
+    margin-bottom: 3em;
+    max-width: 50%;
+
+    .articleBody {
+        color: darkred;
+        text-align: justify;
+        margin-bottom: 1em;
+    }
+
+    .ArticleDate {
+        color: darkgreen;
+    }
+}
